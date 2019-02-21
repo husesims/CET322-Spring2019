@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cet322\\firstapp\\firstapp.csproj",
+      "projectUniqueName": "c:\\cet322\\CET322-Spring2019\\Week1-FirstApp\\firstapp.csproj",
       "projectName": "firstapp",
-      "projectPath": "C:\\cet322\\firstapp\\firstapp.csproj",
+      "projectPath": "c:\\cet322\\CET322-Spring2019\\Week1-FirstApp\\firstapp.csproj",
       "packagesPath": "C:\\Users\\Lab1\\.nuget\\packages\\",
-      "outputPath": "C:\\cet322\\firstapp\\obj\\",
+      "outputPath": "c:\\cet322\\CET322-Spring2019\\Week1-FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
