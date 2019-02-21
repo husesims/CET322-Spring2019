@@ -1,0 +1,11 @@
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\bin\Debug\netcoreapp2.2\firstapp.deps.json
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\bin\Debug\netcoreapp2.2\firstapp.runtimeconfig.json
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\bin\Debug\netcoreapp2.2\firstapp.runtimeconfig.dev.json
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\bin\Debug\netcoreapp2.2\firstapp.dll
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\bin\Debug\netcoreapp2.2\firstapp.pdb
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.csprojAssemblyReference.cache
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.csproj.CoreCompileInputs.cache
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.AssemblyInfoInputs.cache
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.AssemblyInfo.cs
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.dll
+C:\huseyin\CET322-Spring2019\Week1-FirstApp\obj\Debug\netcoreapp2.2\firstapp.pdb

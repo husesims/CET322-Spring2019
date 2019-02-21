@@ -1,6 +1,14 @@
 {
-  "ProjectFilePath": "c:\\cet322\\CET322-Spring2019\\Week1-FirstApp\\firstapp.csproj",
+  "ProjectFilePath": "c:\\huseyin\\CET322-Spring2019\\Week1-FirstApp\\firstapp.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }
